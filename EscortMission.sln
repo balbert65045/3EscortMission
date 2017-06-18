@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscortMission.Plugins", "EscortMission.Plugins.csproj", "{357C29F7-6FF3-2941-2A71-3BA53C246CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscortMission", "EscortMission.csproj", "{8204A3DF-B178-F50C-E76B-6B7F299F8B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscortMission.Editor", "EscortMission.Editor.csproj", "{87B84042-FABF-C0CE-790F-8352BD664052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357C29F7-6FF3-2941-2A71-3BA53C246CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357C29F7-6FF3-2941-2A71-3BA53C246CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357C29F7-6FF3-2941-2A71-3BA53C246CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357C29F7-6FF3-2941-2A71-3BA53C246CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8204A3DF-B178-F50C-E76B-6B7F299F8B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8204A3DF-B178-F50C-E76B-6B7F299F8B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8204A3DF-B178-F50C-E76B-6B7F299F8B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8204A3DF-B178-F50C-E76B-6B7F299F8B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B84042-FABF-C0CE-790F-8352BD664052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B84042-FABF-C0CE-790F-8352BD664052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B84042-FABF-C0CE-790F-8352BD664052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B84042-FABF-C0CE-790F-8352BD664052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
